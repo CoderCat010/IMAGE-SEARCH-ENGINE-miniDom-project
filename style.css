@@ -25,3 +25,12 @@ body{
     border-radius: 15px;
 }
 
+button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 5px !important;
+}
