@@ -4,3 +4,24 @@
     box-sizing: border-box;
     font-family: "Saira Stencil", sans-serif;
 }
+
+body{
+    background-color: lightblue !important;
+}
+
+.img-container{
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.img-container input{
+    text-decoration: none;
+    outline: none;
+    border: none;
+    width: 90%;
+    max-width: 600px;
+    height: 60px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+
